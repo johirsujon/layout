@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Johir's First Web </title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">This is header section </div>
+        <div class="section">
+            <div class="leftsidebar"> Left Side bar</div>
+            <div class="article"> Article section</div>
+            <div class="rightSideBar"> Right side bar </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+ 
